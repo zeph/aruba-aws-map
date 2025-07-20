@@ -38,4 +38,6 @@ Please keep each resource in its own file so diffs stay readable.
 
 ## Licence
 
-MIT © 2024 [Guido Maria Serra+Fenaroli](LICENSE)
+MIT © 2024 [Guido Serra](LICENSE)
+
+Portions of this documentation were drafted with assistance from large-language-model tools; factual accuracy was independently verified.
