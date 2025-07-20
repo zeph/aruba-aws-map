@@ -38,4 +38,4 @@ Please keep each resource in its own file so diffs stay readable.
 
 ## Licence
 
-MIT © 2024 [Your Name](LICENSE)
+MIT © 2024 [Guido Maria Serra+Fenaroli](LICENSE)
